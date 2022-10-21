@@ -7,7 +7,8 @@
  * Copyright 2020 Ernesto Díaz Jiménez <ernestodiaz22@ilg.cat>
  *
  * This is free software, licensed under the GNU General Public License v3.
- * See http://www.gnu.org/licenses/gpl.ht	ml for more information.
+ * See http://www.gnu.org/licenses/gpl.ht	ml for more information.Modificar el punto de los decimales
+ *
  */package gitTerminal02;
 
 import java.util.Scanner;
