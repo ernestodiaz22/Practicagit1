@@ -49,7 +49,7 @@ public class Program {
 
 		in.close();
 
-		System.out.println("\nThe area is in meters: " + area(radi));
+		System.out.printf("\nThe area is in meters: %.2f " + area(radi));
 
 		System.out.println("\nThe perimeter is: " + perimeter(radi));
 
